@@ -3,7 +3,7 @@ Proyecto Final José Eduardo Villeda Tlecuitl
 
 # GymAR - Realidad Aumentada para Entrenamiento Físico 
 
-GymAR es una aplicación nativa de Android desarrollada por la Brigada 06. Utiliza Realidad Aumentada (RA) y detección espacial (Ground Plane) para proyectar un entrenador virtual en 3D sobre el piso de tu entorno real, enseñando la técnica anatómica correcta de diversas rutinas de gimnasio.
+GymAR es una aplicación nativa de Android desarrollada por Villeda Tlecuitl José Eduardo. Utiliza Realidad Aumentada para proyectar un entrenador virtual en 3D sobre el piso de tu entorno real, enseñando la técnica correcta de diversas rutinas de gimnasio.
 
 ##  Descarga e Instalación
 
@@ -21,7 +21,7 @@ No es necesario compilar el código fuente para probar la aplicación. Puedes de
 * Permiso de cámara habilitado (necesario para el escaneo del entorno).
 
 ##  ¿Cómo usar GymAR?
-1. **Abre la app** y selecciona el tipo de entrenamiento en el menú principal (ej. *Rutina de Ejercicio*).
+1. **Abre la app** y selecciona el tipo de entrenamiento en el menú principal.
 2. **Escanea el entorno:** Apunta la cámara hacia un piso iluminado y con algo de textura. Mueve el teléfono ligeramente de un lado a otro.
 3. **Proyección AR:** Una vez detectada la superficie, el entrenador 3D aparecerá anclado al mundo real.
 4. **Interactúa:** Utiliza los botones táctiles en pantalla para desplegar los paneles de información anatómica de los músculos que se están trabajando.
